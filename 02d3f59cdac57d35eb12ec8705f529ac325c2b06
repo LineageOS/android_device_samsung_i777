@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAARn///oQ\u003d",
+        "filename": "extract-files.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 655
+      },
+      "writtenOn": "2012-03-29T21:21:09Z",
+      "side": 1,
+      "message": "What is this needed for? We pull nothing from vendor/samsung/i777/proprietary -- we\u0027re using the proprietaries from galaxys2.",
+      "revId": "02d3f59cdac57d35eb12ec8705f529ac325c2b06",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
