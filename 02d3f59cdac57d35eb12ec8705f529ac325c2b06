@@ -16,6 +16,24 @@
       "revId": "02d3f59cdac57d35eb12ec8705f529ac325c2b06",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAARn///kM\u003d",
+        "filename": "extract-files.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 3054
+      },
+      "writtenOn": "2012-03-30T04:43:47Z",
+      "side": 1,
+      "message": "It creates ../../../vendor/$MANUFACTURER/$DEVICE so that line 170 can create ../../../vendor/$MANUFACTURER/$DEVICE/$DEVICE-vendor-blobs.mk\n\nThe proprietary sub-directory is also created so a fix for the low volume issues (modified RX* \u0026 TX* files in system/etc/audio) on the i777 can be addresses in another change.\n\nIf you would like I can resubmit without the proprietary sub-directory.",
+      "parentUuid": "AAAARn///oQ\u003d",
+      "revId": "02d3f59cdac57d35eb12ec8705f529ac325c2b06",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
