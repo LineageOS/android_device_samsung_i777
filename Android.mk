@@ -54,12 +54,12 @@ $(LOCAL_BUILT_MODULE):
 #  ) \
 #  )
 
+include $(call all-makefiles-under,$(LOCAL_PATH))
+
 include device/samsung/galaxys2/camera/Android.mk
 include device/samsung/galaxys2/DeviceSettings/Android.mk
 include device/samsung/galaxys2/gpswrapper/Android.mk
 include device/samsung/galaxys2/tvout/Android.mk
 include device/samsung/galaxys2/tvouthack/Android.mk
-
-include $(call all-makefiles-under,$(LOCAL_PATH))
 
 endif
