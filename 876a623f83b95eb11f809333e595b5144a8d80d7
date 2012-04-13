@@ -1,0 +1,9 @@
+Change-Id: I876a623f83b95eb11f809333e595b5144a8d80d7
+Code-Review+2: atinm <atinm.dev@gmail.com>
+Verified+1: atinm <atinm.dev@gmail.com>
+Code-Review+1: Andrew Dodd <atd7@cornell.edu>
+Submitted-by: atinm <atinm.dev@gmail.com>
+Submitted-at: Fri, 13 Apr 2012 05:22:35 +0400
+Reviewed-on: http://review.cyanogenmod.com/14671
+Project: CyanogenMod/android_device_samsung_i777
+Branch: refs/heads/ics
