@@ -86,5 +86,9 @@ endif
 PRODUCT_COPY_FILES += \
 	$(NFCEE_ACCESS_PATH):system/etc/nfcee_access.xml
 
+# samm packages
+PRODUCT_PACKAGES += \
+	tcpdump
+
 $(call inherit-product-if-exists, vendor/samsung/i777/i777-vendor.mk)
 $(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
