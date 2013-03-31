@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX//1qs\u003d",
+        "filename": "DeviceSettings/res/values-pl/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2013-03-31T00:18:50Z",
+      "side": 1,
+      "message": "indentation",
+      "revId": "482dd633e26bb1075baa39943c88d0c0138c4ef7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX//1qo\u003d",
+        "filename": "DeviceSettings/res/values-pl/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 126,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2013-03-31T00:18:50Z",
+      "side": 1,
+      "message": "indentation",
+      "revId": "482dd633e26bb1075baa39943c88d0c0138c4ef7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX//1qk\u003d",
+        "filename": "DeviceSettings/res/values-pl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2013-03-31T00:18:50Z",
+      "side": 1,
+      "message": "whitespace error",
+      "revId": "482dd633e26bb1075baa39943c88d0c0138c4ef7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
