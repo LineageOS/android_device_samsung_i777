@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a8ec9b2_9958ec58",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 147,
+      "author": {
+        "id": 12082
+      },
+      "writtenOn": "2015-06-03T00:33:19Z",
+      "side": 1,
+      "message": "Remove these white spaces",
+      "range": {
+        "startLine": 147,
+        "startChar": 0,
+        "endLine": 147,
+        "endChar": 4
+      },
+      "revId": "dbabf27ebde95a0daa8252be1159322687550d23",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_f93570f7",
+        "filename": "usr/keylayout/gpio-keys.kl",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 12082
+      },
+      "writtenOn": "2015-06-03T00:33:19Z",
+      "side": 1,
+      "message": "You could remove these white spaces aswell",
+      "range": {
+        "startLine": 4,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 26
+      },
+      "revId": "dbabf27ebde95a0daa8252be1159322687550d23",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
