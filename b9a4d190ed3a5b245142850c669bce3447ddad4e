@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a8ec9b2_79096031",
+        "filename": "usr/keylayout/gpio-keys.kl",
+        "patchSetId": 3
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 12082
+      },
+      "writtenOn": "2015-06-03T02:36:51Z",
+      "side": 1,
+      "message": "Missed this one :P",
+      "range": {
+        "startLine": 4,
+        "startChar": 17,
+        "endLine": 4,
+        "endChar": 28
+      },
+      "revId": "b9a4d190ed3a5b245142850c669bce3447ddad4e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
