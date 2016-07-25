@@ -34,5 +34,7 @@ TARGET_KERNEL_CONFIG := cyanogenmod_i777_defconfig
 # assert
 TARGET_OTA_ASSERT_DEVICE := i777,SGH-I777,SGH-S959G
 
+TARGET_NOT_USE_GZIP_RECOVERY_RAMDISK := true
+
 # Use the non-open-source parts, if they're present
 -include vendor/samsung/i777/BoardConfigVendor.mk
