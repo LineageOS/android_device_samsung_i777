@@ -34,6 +34,9 @@ BOARD_HAS_BLN := true
 TARGET_KERNEL_SOURCE := kernel/samsung/smdk4412
 TARGET_KERNEL_CONFIG := cyanogenmod_i777_defconfig
 
+# Selinux
+BOARD_SEPOLICY_DIRS += device/samsung/i777/selinux
+
 # assert
 TARGET_OTA_ASSERT_DEVICE := i777,SGH-I777,SGH-S959G
 
